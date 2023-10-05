@@ -88,7 +88,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailProps) => {
                         alt="car model"
                         fill
                         priority
-                        className="object-contain"
+                        className="object-contains"
                       />
                     </div>
                   </div>
